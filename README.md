@@ -2,7 +2,7 @@
 Here something about me:
 
 
-- 🔭 I’m currently working at [Funcom](https://www.funcom.com/funcom-zpx/) as a .Net Developer
+- 🔭 I’m currently working at [Funcom](https://www.funcom.com/funcom-zpx/) as a Backend Programmer.
 - :video_game: I’m a game development enthusiast.
 - 💬 Ask me about: Development :)
 - ⚡ Check my repos 
