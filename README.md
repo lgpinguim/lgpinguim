@@ -8,7 +8,7 @@ I'm a passionate **Backend Developer** with a love for **game development** and 
 
 ### 🚀 What I'm Up To
 
-*   🔍 Actively seeking new opportunities as a **Backend Programmer**
+*   🔍 Actively seeking new opportunities as a **Backend Programmer**, **Gameplay Programmer**, **Engine Programmer** 
 *   🎮 Building and exploring **game development** projects
 *   💻 Constantly learning and improving my craft
 *   🛠️ Contributing to open-source when I can
